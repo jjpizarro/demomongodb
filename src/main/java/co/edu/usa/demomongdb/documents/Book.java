@@ -1,4 +1,4 @@
-package co.edu.usa.demomongdb.repositories;
+package co.edu.usa.demomongdb.documents;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
